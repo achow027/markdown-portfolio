@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Favorite food: Sushi 🍣
+* Favorite places to eat: 😃
+  * Sushi sake
+  * Hawaiian poke bowl
